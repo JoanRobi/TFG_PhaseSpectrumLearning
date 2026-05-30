@@ -42,4 +42,4 @@ l'experiment comparatiu.
 
 
 
-El link al repoditori de FFD es el següent: https://github.com/JStehouwer/FFD_CVPR2020
+El link al repositori de FFD es el següent: https://github.com/JStehouwer/FFD_CVPR2020
